@@ -1,0 +1,37 @@
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color: white;
+}
+h2{
+    color: red;
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+}
+li{
+    display: inline;
+    margin: auto;
+    font-style: italic;
+    
+}
+ul{
+    display: flex;
+    justify-content: center;
+    border: solid;
+    border-width: 5px;
+}
+body{
+    background-image: url(box.pnj.jpg);
+}
+
+footer {
+    position: fixed;
+    bottom: 0px; 
+}
+
+

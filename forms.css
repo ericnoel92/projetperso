@@ -1,0 +1,21 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    border: 2px solid blue;   
+}
+body{
+    background-image: url(box.pnj.jpg)
+}
+#consentCheckboxContainer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    background-color: #f0f0f0; 
+}
+
+
