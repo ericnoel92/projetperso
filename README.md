@@ -29,10 +29,6 @@ Le fichier HTML principal `index.html` contient les éléments suivants :
 
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez contribuer, veuillez forker ce dépôt, effectuer vos modifications, puis soumettre une demande de fusion.
 
-## Licence
-
-Ce projet est disponible sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
-
 ## Contact
 
 Pour toute question ou suggestion concernant ce projet, veuillez nous contacter à l'adresse suivante : [eric.antonie.noel92@gmail.com].
