@@ -1,4 +1,6 @@
-
+<div>
+  <img src="box.pnj.jpg">
+</div>
 
 # Apprendre le Krav Maga
 
